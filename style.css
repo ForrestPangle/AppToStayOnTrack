@@ -54,12 +54,12 @@ textarea{
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #ff0d00;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #00eb00;
   color: white;
 }
 
@@ -67,7 +67,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: #00a0d1;
   color: white;
   padding: 1px;
 }
